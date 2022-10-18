@@ -10,12 +10,12 @@
 	Comments on: Porro Quisquam	</title>
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/porro-quisquam/feed/" rel="self" type="application/rss+xml" />
 	<link>https://vantho1123.github.io/Mywordpress/san-pham/porro-quisquam/</link>
-	<description>game zone</description>
+	<description></description>
 	<lastBuildDate>Tue, 04 Oct 2022 02:08:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
