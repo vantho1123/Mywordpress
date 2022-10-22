@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Mỹ Phẩm Nature Book</title>
-		<link>https://vantho1123.github.io/Mywordpress/2022/10/18/my-pham-nature-book/</link>
-					<comments>https://vantho1123.github.io/Mywordpress/2022/10/18/my-pham-nature-book/#respond</comments>
+		<link>https://vantho1123.github.io/Mywordpress/my-pham-nature-book/</link>
+					<comments>https://vantho1123.github.io/Mywordpress/my-pham-nature-book/#respond</comments>
 		
 		<dc:creator><![CDATA[phanvantho]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 02:46:21 +0000</pubDate>
@@ -84,7 +84,7 @@
 										2:46 am					</span>
 								</li>
 				<li class="elementor-icon-list-item elementor-repeater-item-d6adef7 elementor-inline-item" itemprop="commentCount">
-						<a href="https://vantho1123.github.io/Mywordpress/2022/10/18/my-pham-nature-book/#respond">
+						<a href="https://vantho1123.github.io/Mywordpress/my-pham-nature-book/#respond">
 											<span class="elementor-icon-list-icon">
 								<i aria-hidden="true" class="far fa-comment-dots"></i>							</span>
 									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-comments">
@@ -222,7 +222,7 @@
 				<div class="elementor-element elementor-element-029bc3d eael-product-grid-column-3 elementor-widget elementor-widget-eicon-woocommerce" data-id="029bc3d" data-element_type="widget" data-widget_type="eicon-woocommerce.default">
 				<div class="elementor-widget-container">
 			
-        <div class="eael-product-grid eael-product-reveal grid" id="eael-product-grid" data-widget-id="029bc3d" data-page-id="438" data-nonce="e68cb632bf" >
+        <div class="eael-product-grid eael-product-reveal grid" id="eael-product-grid" data-widget-id="029bc3d" data-page-id="438" data-nonce="ac98acbff8" >
             <div class="woocommerce">
                 <ul class="products" data-layout-mode="grid">    <li class="product">
         <div class="eael-product-wrap">
@@ -243,7 +243,7 @@
             </div><div class="eael-star-rating star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> out of 5</span></div><div class="eael-product-price"><span class="woocommerce-Price-amount amount"><bdi>280,000&nbsp;<span class="woocommerce-Price-currencySymbol">VND</span></bdi></span></div>            <a href="https://vantho1123.github.io/Mywordpress/san-pham/laudantium-furniture-2/?add-to-cart=346" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="346" data-product_sku="SKU34" aria-label="Add &ldquo;Laudantium Furniture&rdquo; to your cart" rel="nofollow">Add to cart</a>                    </div>
     </li>
     </ul>            <div class="eael-load-more-button-wrap eael-force-hide">
-                <button class="eael-load-more-button" id="eael-load-more-btn-029bc3d" data-widget-id="029bc3d" data-widget="029bc3d" data-page-id="438" data-nonce="dd2623f5d0" data-template="{&quot;dir&quot;:&quot;lite&quot;,&quot;file_name&quot;:&quot;default.php&quot;,&quot;name&quot;:&quot;Eicon-Woocommerce&quot;}" data-class="Essential_Addons_Elementor\Elements\Product_Grid" data-layout="grid" data-page="1" data-args="post_type=product&amp;post_status%5B0%5D=publish&amp;post_status%5B1%5D=pending&amp;post_status%5B2%5D=future&amp;posts_per_page=3&amp;order=desc&amp;offset=0&amp;tax_query%5B0%5D%5Btaxonomy%5D=product_cat&amp;tax_query%5B0%5D%5Bfield%5D=slug&amp;tax_query%5B0%5D%5Bterms%5D%5B0%5D=organic&amp;tax_query%5B0%5D%5Boperator%5D=IN&amp;orderby=date&amp;meta_query%5Brelation%5D=AND&amp;total_post=17" data-max-page="6">
+                <button class="eael-load-more-button" id="eael-load-more-btn-029bc3d" data-widget-id="029bc3d" data-widget="029bc3d" data-page-id="438" data-nonce="8311706c44" data-template="{&quot;dir&quot;:&quot;lite&quot;,&quot;file_name&quot;:&quot;default.php&quot;,&quot;name&quot;:&quot;Eicon-Woocommerce&quot;}" data-class="Essential_Addons_Elementor\Elements\Product_Grid" data-layout="grid" data-page="1" data-args="post_type=product&amp;post_status%5B0%5D=publish&amp;post_status%5B1%5D=pending&amp;post_status%5B2%5D=future&amp;posts_per_page=3&amp;order=desc&amp;offset=0&amp;tax_query%5B0%5D%5Btaxonomy%5D=product_cat&amp;tax_query%5B0%5D%5Bfield%5D=slug&amp;tax_query%5B0%5D%5Bterms%5D%5B0%5D=organic&amp;tax_query%5B0%5D%5Boperator%5D=IN&amp;orderby=date&amp;meta_query%5Brelation%5D=AND&amp;total_post=17" data-max-page="6">
                     <div class="eael-btn-loader button__loader"></div>
                     <span></span>
                 </button>
@@ -380,7 +380,7 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://vantho1123.github.io/Mywordpress/2022/10/18/my-pham-nature-book/feed/</wfw:commentRss>
+					<wfw:commentRss>https://vantho1123.github.io/Mywordpress/my-pham-nature-book/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
